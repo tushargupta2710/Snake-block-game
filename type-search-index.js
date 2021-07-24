@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"move"},{"p":"<Unnamed>","l":"move.Block"},{"p":"<Unnamed>","l":"move.Destroy"},{"p":"<Unnamed>","l":"move.Food"},{"p":"<Unnamed>","l":"move.Magnet"},{"p":"<Unnamed>","l":"move.Shield"},{"p":"<Unnamed>","l":"move.Snake"},{"p":"<Unnamed>","l":"move.Walls"}]
